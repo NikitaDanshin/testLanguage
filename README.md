@@ -1,2 +1,2 @@
 # testLanguage
-This prroject for testing language
+This project for testing language
